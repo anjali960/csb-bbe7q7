@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://anjali960.github.io/csb-bbe7q7/static/css/main.a6c46adb.chunk.css",
+    "main.js": "https://anjali960.github.io/csb-bbe7q7/static/js/main.13e58cc7.chunk.js",
+    "main.js.map": "https://anjali960.github.io/csb-bbe7q7/static/js/main.13e58cc7.chunk.js.map",
+    "runtime-main.js": "https://anjali960.github.io/csb-bbe7q7/static/js/runtime-main.84c49c53.js",
+    "runtime-main.js.map": "https://anjali960.github.io/csb-bbe7q7/static/js/runtime-main.84c49c53.js.map",
+    "static/js/2.69cf710d.chunk.js": "https://anjali960.github.io/csb-bbe7q7/static/js/2.69cf710d.chunk.js",
+    "static/js/2.69cf710d.chunk.js.map": "https://anjali960.github.io/csb-bbe7q7/static/js/2.69cf710d.chunk.js.map",
+    "index.html": "https://anjali960.github.io/csb-bbe7q7/index.html",
+    "static/css/main.a6c46adb.chunk.css.map": "https://anjali960.github.io/csb-bbe7q7/static/css/main.a6c46adb.chunk.css.map",
+    "static/js/2.69cf710d.chunk.js.LICENSE.txt": "https://anjali960.github.io/csb-bbe7q7/static/js/2.69cf710d.chunk.js.LICENSE.txt",
+    "static/media/meals.97ba8c13.jpg": "https://anjali960.github.io/csb-bbe7q7/static/media/meals.97ba8c13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c49c53.js",
+    "static/js/2.69cf710d.chunk.js",
+    "static/css/main.a6c46adb.chunk.css",
+    "static/js/main.13e58cc7.chunk.js"
+  ]
+}
